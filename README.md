@@ -169,7 +169,7 @@ function ListingCard() {
 ```
 
   * `.ListingCard` is the “block” and represents the higher-level component
-  * `.ListingCard__title` is an “element” and represents a descendant of `.ListingCard` that helps compose the block as a whole.
+  * `.ListingCard__title` is an “element” and represents a descendant of `.LipstingCard` that helps compose the block as a whole.
   * `.ListingCard--featured` is a “modifier” and represents a different state or variation on the `.ListingCard` block.
 
 ### ID selectors

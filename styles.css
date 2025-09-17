@@ -1,0 +1,14 @@
+/* By element */
+p {
+    color: green;
+}
+
+/* By class */
+.text-red {
+    color: red;
+}
+
+/* By id */
+#special {
+    font-weight: bold;
+}
